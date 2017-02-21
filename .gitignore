@@ -1,9 +1,11 @@
 
 #Java.gitignore
 
+MainTest.java
 *.class
 *.project
 *.classpath
+
 
 # Log file
 *.log
